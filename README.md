@@ -2,6 +2,7 @@
 
 
 #include <studio.h>
+
 #include <math.h>
 
     //Questão 1
@@ -22,7 +23,9 @@ printf("Soma: %d" , x+y);
 //Questão 2
 
      int numero;
+
 printf("Insira um número: \n");
+
 scanf("%d", &numero);
 
 if (numero % 2 == 0)  {
@@ -35,6 +38,7 @@ return 0;
 }
 
 //Questão 4
+
 int main() {
    int a, b, c, d, e, f;
 float media;
