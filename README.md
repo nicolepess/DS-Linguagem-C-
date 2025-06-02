@@ -8,9 +8,13 @@
     int main() {
    int x,y;
 printf("Insira o Numero 1: \n");
+
 scanf("%d", &x);
+
 printf("Insira o Numero 2: \n");
+
 scanf("%d", &y);
+
 printf("Soma: %d" , x+y);
 }
 
