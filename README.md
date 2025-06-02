@@ -3,6 +3,7 @@
 
 #include <studio.h>
 #include <math.h>
+
     //Questão 1
     int main() {
    int x,y;
