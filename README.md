@@ -1,9 +1,8 @@
-# DS-Linguagem-C-
-Desktops 
+# DS-Linguagem-C- 
 
 
 #include <studio.h>
-
+#include <math.h>
     //Questão 1
     int main() {
    int x,y;
